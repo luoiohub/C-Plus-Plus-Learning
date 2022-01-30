@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cs": "csharp",
+        "*.txt": "plaintext",
+        "windows.h": "c",
+        "conio.h": "c"
+    }
+}
